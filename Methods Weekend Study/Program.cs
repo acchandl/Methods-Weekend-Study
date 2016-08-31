@@ -159,9 +159,8 @@ static string Name(string first, string last)
 
 
 
-//problem 1 the correct way
-
-//made into string array. then split it, then reverse it. then foreach
+//problem 1 alternative way:
+//made into string array, then split it, then reverse it, then foreach.
 
 
 
